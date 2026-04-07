@@ -7,9 +7,8 @@ AWS（EC2）上での公開も想定して作成しています。
 
 デモ
 
-公開URL（後で貼る）
-例: https://〇〇.github.io/sample-site/
-
+公開URL
+https://mthlocoloco09-beep.github.io/sample-site/)
 使用技術
 	•	HTML
 
