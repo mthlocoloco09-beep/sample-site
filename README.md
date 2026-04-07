@@ -8,7 +8,7 @@ AWS（EC2）上での公開も想定して作成しています。
 デモ
 
 公開URL
-https://mthlocoloco09-beep.github.io/sample-site/)
+（https://mthlocoloco09-beep.github.io/sample-site/)
 使用技術
 	•	HTML
 
