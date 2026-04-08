@@ -1,26 +1,12 @@
-Sample Site
+# sample-site
 
-概要
+## 概要
+未経験からITインフラエンジニアを目指す自己紹介サイトです。  
+AWS EC2でWebサーバーを構築し、GitHub Pagesで公開しています。
 
-このプロジェクトは、HTMLの基礎学習として作成したシンプルなWebページです。
-AWS（EC2）上での公開も想定して作成しています。
+## URL
+https://あなたのユーザー名.github.io/sample-site/
 
-デモ
-
-公開URL
-（https://mthlocoloco09-beep.github.io/sample-site/)
-使用技術
-	•	HTML
-
-機能
-	•	見出し表示
-	•	テキスト表示
-
-工夫した点
-	•	文字コードをUTF-8で統一し、文字化けを防止
-	•	シンプルな構成で確実に動作することを優先
-
-
-作成者
-
-花木隼矢
+## 内容
+- index.html : 自己紹介と現在の学習内容
+- CSS埋め込み済みで簡易デザイン
